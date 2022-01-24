@@ -1,1 +1,5 @@
 Basic Linux Command to be known as a Forensic Expert or Threat-intelligent analyst...!!!
+pwd -   Present Working Directory
+rm  -   Remove File/Directory
+mv  -   Move File/Directory
+cp  -   Copy File/Directory
