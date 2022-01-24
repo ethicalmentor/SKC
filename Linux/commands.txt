@@ -1,5 +1,34 @@
 Basic Linux Command to be known as a Forensic Expert or Threat-intelligent analyst...!!!
-pwd -   Present Working Directory
-rm  -   Remove File/Directory
-mv  -   Move File/Directory
-cp  -   Copy File/Directory
+pwd       -   Present Working Directory
+rm        -   Remove File/Directory
+mv        -   Move File/Directory
+cp        -   Copy File/Directory
+ls        -   List Directory
+help      -   Shows all available commands in SHELL
+history   -   Shows upto 500 previous commands
+
+What is a Terminal?
+
+A terminal is a software that consist of various features combined with the SHELL language 
+inorder to interact with the OS and the Kernel.
+
+What is SHELL?
+
+SHELL is a layer that provides interactive environment with the OS and the kernel for various
+processes and acts as an intermediate between the user and the Kernel.
+
+SHELL Architecture :-
+Kernel > OS > SHELL > Apps/Softwares
+
+Which languege does SHELL uses to interact with the user?
+
+There are plenty of those in which BASH is the most commmon of all.
+
+Linux tools helpful in Forensics :
+dd
+ftkimager-CLI
+top(Volatile memory analysis)
+ssh
+geo-tagging(Image analysis with GEO-TAGS)
+GIMP(Image recovery and alteration analysis)
+VLC(Video analysis)
